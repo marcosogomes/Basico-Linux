@@ -1,0 +1,15 @@
+Comandos no Terminal
+
+Atalho para Terminal = Ctrl + Alt = T
+Mostra o caminho onde vc está logado = pwd
+Lista o conteudo do diretório = ls
+Podemos lista o conteudo de uma pasta sem ter que entrar nela = ls (nome da pasta)
+Para listar o conteudo de uma pasta com detalhes = ls -l
+Entrar em uma pasta = cd
+Para ir direto para o diretorio raiz = cd /
+Criar uma pasta = mkdir
+Para limpar a tela podemos usar o atalho = Ctrl + l ou o comando clear
+Podemos verificar o manual de um comando digitando o comando  = man (comando) (ex: man ls)
+
+
+
